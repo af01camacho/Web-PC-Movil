@@ -31,6 +31,7 @@
 .main{
     grid-area: main;
     background-color: #0081cf;
+    padding: 5px;
 
 }
 .aside{
